@@ -1,0 +1,30 @@
+100 15min candles
+100 1Hr candles
+
+CandleBucket can execute searcher algo
+It can be configured by bunch of searchers and run them at its will
+like when new candle update arrived
+then it fires event [Bucket,Searcher,Time]
+
+EventNotifier gathers events and sends them to tg (mine)
+
+Language: C#
+Mode: Manual (currently, AI later)
+
+Project name: JUST_SAY_NOW (JSN)
+
+1) Structures
+2) Gather info from Binance
+3) How to configure bucket with searchers? How to realtime it without server restart? **In process will see***
+
+Restore some GitHub account
+Put this doc on GitHub
+Create fresh project
+Visualisation: simple one web page, no current auth but auth from default project for the future
+Visualisation updates: one second refresh (timer)
+Base project: Web application with API
+
+Priority: 2 days to useful product
+Biy Epicenter desk with markers
+
+MarketsDesk (tm)
